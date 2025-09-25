@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Kyle's Blog: Welcome to my blog!
 ---
